@@ -1,17 +1,7 @@
-# buscador_gifs
+# Buscador de gifs feito em flutter
 
-A new Flutter application.
+O projeto é um exemplo de como fazer requisições usando package:http/http.dart e a manipulação de lista em grid.
 
-## Getting Started
+O site que é usado para pesquisa dos gids-> https://giphy.com/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# buscador-gifs-flutter
+![Alt Text](https://github.com/JoabeRamone/buscador-gifs-flutter/tree/master/images/exemplo.gif)
