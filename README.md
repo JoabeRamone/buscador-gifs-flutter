@@ -4,4 +4,4 @@ O projeto é um exemplo de como fazer requisições usando package:http/http.dar
 
 O site que é usado para pesquisa dos gids-> https://giphy.com/
 
-![Alt Text](https://github.com/JoabeRamone/buscador-gifs-flutter/tree/master/images/exemplo.gif)
+![Alt Text](https://github.com/JoabeRamone/buscador-gifs-flutter/blob/master/images/exemplo.gif)
